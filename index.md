@@ -1,5 +1,5 @@
 ---
-Team Name:  About Me! 
+Title: About Me! :)  
 ---
 
 # Jennifer Lai
